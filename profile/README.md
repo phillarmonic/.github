@@ -47,9 +47,12 @@ We build our tools around modern development workflows. They deliver a great **d
 
 ## Support Phillarmonic Software
 
-We're open for sponsorships with no strings attached. We just want to make the world a better place, one useful tool at a time. Get in touch with us at hello@phillarmonic.com
+We're open for sponsorships with no strings attached. We just want to make the world a better place, one useful tool at a time. 
+
+Get in touch with us at hello@phillarmonic.com
 
 ## Want our expertise in software at the service of your company?
 
 Need specialized consultancy on a **Phillarmonic** built tool? Want us to build something tailor made for your edge cases?
+
 Hit us at hello@phillarmonic.com
